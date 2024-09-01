@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS , React.js, Python, Statistics and Django**
 
-- 📫 How to reach me **ashwinikrishnajirao@outlook.com**
+- 📫 How to reach me **ashwinikrishnajirao@gmail.com**
 
 - 📄 Know about my experiences [https://ashwinikrishnajirao-resume.netlify.app/](https://ashwinikrishnajirao-resume.netlify.app/)
 
